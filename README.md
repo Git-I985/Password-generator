@@ -1,3 +1,3 @@
-# Password-generator app for desktop
+# Password generator app for desktop
 
 Created with **Lazarus**
